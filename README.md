@@ -43,15 +43,17 @@ Endereços IPv4 (IP Local).
 Configuração do Webhook:
 Abra o arquivo main.py e insira a URL do seu Webhook do Discord na variável DISCORD_WEBHOOK_URL.
 
+```
 Arquivos:
-Mantenha os arquivos main.py e pcinfo.ps1 na mesma pasta.
+Mantenha os arquivos malwere.py e pcinfo.ps1 na mesma pasta.
 
 Execução:
 No terminal, instale a biblioteca necessária e execute o script:
 
 pip install requests
-python main.py
+python malwere.py.py
 
+```
 
 ### ⚙️ Funcionamento
 
